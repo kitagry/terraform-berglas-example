@@ -39,5 +39,5 @@ $ berglas list $BUCKET_ID
 DB_USER
 DB_PASS
 
-$ berglas access $DB_PASS
+$ berglas access DB_PASS
 ```
